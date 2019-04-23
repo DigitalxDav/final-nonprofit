@@ -1,0 +1,34 @@
+.center {
+    display: block;
+    margin-left: 33%;
+    margin-right: 10%;
+    width: 90%;
+  }
+
+  .btn {
+    border: none; /* Remove borders */
+    color: white; /* Add a text color */
+    padding: 14px 28px; /* Add some padding */
+    cursor: pointer; /* Add a pointer cursor on mouse-over */
+  }
+  
+  .success {background-color: #2196F3;} /* Blue */
+  .success:hover {background-color: #0b7dda;}
+  
+  .info {background-color: #2196F3;} /* Blue */
+  .info:hover {background: #0b7dda;}
+
+
+  .padding {
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 20px;
+    padding-left: 380px;
+  }
+
+  .padding2 {
+    padding-top: 50px;
+    padding-right: 58px;
+    padding-bottom: 20px;
+    padding-left: 380px;
+  }

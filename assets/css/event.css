@@ -1,0 +1,9 @@
+.image {
+    float: left;
+    height: 75px;
+    width: 235px;
+    
+  }
+  .text {
+    float:right;
+  }
